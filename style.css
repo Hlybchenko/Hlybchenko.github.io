@@ -43,6 +43,10 @@ h3 {
   align-items: flex-end;
   margin-top: 50px;
 }
+
+.mob {
+  white-space: nowrap;
+}
   
 .footer {
   display: flex;
